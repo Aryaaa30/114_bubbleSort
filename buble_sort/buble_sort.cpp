@@ -58,3 +58,12 @@ void display() {
 	}
 	cout << endl;
 }
+
+int main() {
+	input();
+	unsorted();
+	bubblSortArray();
+	display();
+
+	return 0;
+}
