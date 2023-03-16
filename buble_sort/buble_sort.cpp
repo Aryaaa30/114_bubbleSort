@@ -62,7 +62,7 @@ void display() {
 int main() {
 	input();
 	unsorted();
-	bubblSortArray();
+	bubbleSortArray();
 	display();
 
 	return 0;
